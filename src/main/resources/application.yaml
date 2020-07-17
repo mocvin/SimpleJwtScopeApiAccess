@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+keystore:
+  password: 'changeit'
+  file: '/opt/DEV/jvm/jdk1.8.0_144/jre/lib/security/cacerts'
+  alias: 'mywso2test'
